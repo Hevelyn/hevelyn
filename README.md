@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Hevelyn 👋
 
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando Js, Angular, Ts e Node
+- 🔭 Trabalho como full stack
+- 🌱 Estudando sempre
 - 😄 Pronouns: ela/dela
 
 <div>
